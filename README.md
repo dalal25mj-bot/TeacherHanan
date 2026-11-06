@@ -1,2 +1,0 @@
-# TeacherHanan
-Interactive periodic table
